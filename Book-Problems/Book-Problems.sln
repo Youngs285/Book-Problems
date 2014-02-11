@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C# Express 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Book-Problems", "Book-Problems\Book-Problems.csproj", "{77385361-ADD2-41FA-959C-C8DCDB15FC87}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Name", "Book-Problems\Name.csproj", "{77385361-ADD2-41FA-959C-C8DCDB15FC87}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
