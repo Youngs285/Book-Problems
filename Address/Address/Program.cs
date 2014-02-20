@@ -11,7 +11,7 @@ namespace Name
         {
             Console.WriteLine("Sean Young");
             Console.WriteLine("1660 Barnacle street");
-            Console.WriteLine("FiddleSticks");
+            Console.WriteLine("FishLand");
             Console.WriteLine("Ocean");
         }
     }

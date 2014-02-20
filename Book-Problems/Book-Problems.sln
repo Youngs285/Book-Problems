@@ -3,6 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C# Express 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Name", "Book-Problems\Name.csproj", "{77385361-ADD2-41FA-959C-C8DCDB15FC87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Initials", "..\Address\Initials\Initials.csproj", "{5276B1C8-8B48-444D-B3D9-62E8817AC05A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tree", "..\Address\Tree\Tree.csproj", "{BDD3C2CF-C3C9-46EA-9439-542BF3F5DBDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Address", "..\Address\Address\Address.csproj", "{E6229DFB-01BE-4579-BB01-B5D499A32ACC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +19,18 @@ Global
 		{77385361-ADD2-41FA-959C-C8DCDB15FC87}.Debug|x86.Build.0 = Debug|x86
 		{77385361-ADD2-41FA-959C-C8DCDB15FC87}.Release|x86.ActiveCfg = Release|x86
 		{77385361-ADD2-41FA-959C-C8DCDB15FC87}.Release|x86.Build.0 = Release|x86
+		{5276B1C8-8B48-444D-B3D9-62E8817AC05A}.Debug|x86.ActiveCfg = Debug|x86
+		{5276B1C8-8B48-444D-B3D9-62E8817AC05A}.Debug|x86.Build.0 = Debug|x86
+		{5276B1C8-8B48-444D-B3D9-62E8817AC05A}.Release|x86.ActiveCfg = Release|x86
+		{5276B1C8-8B48-444D-B3D9-62E8817AC05A}.Release|x86.Build.0 = Release|x86
+		{BDD3C2CF-C3C9-46EA-9439-542BF3F5DBDA}.Debug|x86.ActiveCfg = Debug|x86
+		{BDD3C2CF-C3C9-46EA-9439-542BF3F5DBDA}.Debug|x86.Build.0 = Debug|x86
+		{BDD3C2CF-C3C9-46EA-9439-542BF3F5DBDA}.Release|x86.ActiveCfg = Release|x86
+		{BDD3C2CF-C3C9-46EA-9439-542BF3F5DBDA}.Release|x86.Build.0 = Release|x86
+		{E6229DFB-01BE-4579-BB01-B5D499A32ACC}.Debug|x86.ActiveCfg = Debug|x86
+		{E6229DFB-01BE-4579-BB01-B5D499A32ACC}.Debug|x86.Build.0 = Debug|x86
+		{E6229DFB-01BE-4579-BB01-B5D499A32ACC}.Release|x86.ActiveCfg = Release|x86
+		{E6229DFB-01BE-4579-BB01-B5D499A32ACC}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -9,13 +9,16 @@ namespace Initials
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("   SSSSSSS");
-            Console.WriteLine("   S");
-            Console.WriteLine("   S");
-            Console.WriteLine("   S");
-            Console.WriteLine("   SSSSSSS");
-            Console.WriteLine("         S");
-            Console.WriteLine("Sean Young");
+            Console.WriteLine("   SSSSSSS          Y           Y");
+            Console.WriteLine("   S                 Y         Y");
+            Console.WriteLine("   S                  Y       Y");
+            Console.WriteLine("   S                    Y   Y");
+            Console.WriteLine("   SSSSSSS               YY");
+            Console.WriteLine("         S                Y");
+            Console.WriteLine("         S                Y");
+            Console.WriteLine("         S                Y");
+            Console.WriteLine("   SSSSSSS                Y");
+
         }
     }
 }
